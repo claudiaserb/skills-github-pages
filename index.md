@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+Hello: Welcome to my blog!
 ---
 # Daily progress
 - [ ] Complete the GitHub learning path
